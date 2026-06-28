@@ -1,16 +1,4 @@
 Module,Date,Horaire,Moniteur
-1,30.05.2026,13h30 - 17h30,Maxime
-2,06.06.2026,13h30 - 17h30,Maxime
-3,13.06.2026,08h00 - 12h00,Maxime
-1,08.06.2026,18h00 - 22h00,Maxime
-2,09.06.2026,18h00 - 22h00,Maxime
-3,10.06.2026,18h00 - 22h00,Maxime
-1,27.06.2026,13h30 - 17h30,Maxime
-2,04.07.2026,13h30 - 17h30,Maxime
-3,11.07.2026,08h00 - 12h00,Maxime
-1,17.07.2026,18h00 - 22h00,Maxime
-2,18.07.2026,13h30 - 17h30,Maxime
-3,19.07.2026,09h00 - 13h00,Maxime
 1,31.07.2026,18h00 - 22h00,Maxime
 2,01.08.2026,10h00 - 14h00,Maxime
 3,02.08.2026,10h00 - 14h00,Maxime
@@ -20,12 +8,24 @@ Module,Date,Horaire,Moniteur
 1,24.08.2026,18h00 - 22h00,Maxime
 2,25.08.2026,18h00 - 22h00,Maxime
 3,26.08.2026,18h00 - 22h00,Maxime
-1,29.08.2026,13h30 - 17h30,Maxime
-2,05.09.2026,13h30 - 17h30,Maxime
-3,12.09.2026,08h00 - 12h00,Maxime
-1,Septembre.2026,18h00 - 22h00,Maxime
-2,Septembre.2026,18h00 - 22h00,Maxime
-3,Septembre.2026,18h00 - 22h00,Maxime
+1,11.09.2026,18h00 - 22h00,Maxime
+2,12.09.2026,13h30 - 17h30,Maxime
+3,13.09.2026,09h00 - 13h00,Maxime
+1,21.09.2026,18h00 - 22h00,Maxime
+2,22.09.2026,18h00 - 22h00,Maxime
+3,23.09.2026,18h00 - 22h00,Maxime
+1,02.10.2026,18h00 - 22h00,Maxime
+2,03.10.2026,13h30 - 17h30,Maxime
+3,04.10.2026,09h00 - 13h00,Maxime
+1,Octobre.2026,18h00 - 22h00,Maxime
+2,Octobre.2026,18h00 - 22h00,Maxime
+3,Octobre.2026,18h00 - 22h00,Maxime
+1,Novembre.2026,13h30 - 17h30,Maxime
+2,Novembre.2026,13h30 - 17h30,Maxime
+3,Novembre.2026,08h00 - 12h00,Maxime
+1,Novembre.2026,18h00 - 22h00,Maxime
+2,Novembre.2026,18h00 - 22h00,Maxime
+3,Novembre.2026,18h00 - 22h00,Maxime
 
 
 
